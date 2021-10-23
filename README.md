@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luke
+- 👋 Hi, I’m Luke.
 - 👀 I’m interested in Software Development and Hacking.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any experience or projecr that will further my learning
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any experience or project that will further my learning.
 - 📫 You can reach me at lrlehan@icloud.com
 
 <!---
