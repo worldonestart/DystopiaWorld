@@ -1,5 +1,5 @@
 - idk what to put here
-- add me on discord: Ｄｙｓｔｏｐｉａ#9075
+- add me on discord: Circuit#4940
 
 <!---
 lukelhn/lukelhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
